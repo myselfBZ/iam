@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
           }`}
         >
           <span className="text-gray-900 dark:text-white drop-shadow-[0_0_15px_rgba(0,0,0,0.3)] dark:drop-shadow-[0_0_25px_rgba(255,255,255,0.7)]">
-            Bobirmirzo Alivobjonov
+            A. Bobirmirzo 
           </span>
         </h1>
         
