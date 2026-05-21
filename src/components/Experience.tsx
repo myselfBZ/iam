@@ -36,7 +36,8 @@ const experienceData = [
       'Integrated and maintained GitHub CI/CD pipelines for automated testing and deployment.',
       'Maintained client communication to ensure requirements were met effectively.',
       'Deployed and managed the services on Google Cloud Platform.'
-    ]
+    ],
+    visitSite: "https://www.unpt.uz/",
   }
 ];
 
