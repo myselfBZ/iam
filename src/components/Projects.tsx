@@ -29,6 +29,21 @@ const projectsData: Project[] = [
     )
   },
   {
+    id: 'bshell',
+    title: 'BShell',
+    shortDescription: 'Custom POSIX-like shell implementing a full Lexer, Parser, and Evaluator architecture.',
+    tags: ['Go', 'Systems Programming', 'Unix'],
+    links: [
+      { label: 'Source Code', url: 'https://github.com/myselfBZ/bshell' }
+    ],
+    fullDescription: (
+      <div className="space-y-4 text-gray-700 dark:text-gray-300">
+        <p>A custom Unix shell featuring a clean interpreter-like architecture, splitting execution into discrete lexing, parsing, and evaluation phases.</p>
+        <p>Implements a hand-written Pratt parser to cleanly handle operator precedence, abstract syntax tree (AST) generation, and robust support for pipes, standard I/O redirections, and other Unix goodies.</p>
+      </div>
+    )
+  },
+  {
     id: 'ecommerce',
     title: 'Microservices E-Commerce',
     shortDescription: 'Highly available e-commerce platform built on a gRPC microservices architecture.',
