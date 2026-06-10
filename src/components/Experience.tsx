@@ -30,7 +30,7 @@ const experienceData = [
     id: 'uni-projects',
     role: 'Backend Engineer',
     company: 'Uni Projects Tech',
-    period: 'Aug 2024 - Apr 2025',
+    period: 'Dec 2024 - Feb 2025',
     highlights: [
       'Developed scalable backend services for internal management systems using Go and MongoDB.',
       'Integrated and maintained GitHub CI/CD pipelines for automated testing and deployment.',
