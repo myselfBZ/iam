@@ -107,9 +107,6 @@ const Contact: React.FC = () => {
       <h3 className="text-3xl font-bold mb-2 text-gray-900 dark:text-white">
         Let's Connect
       </h3>
-      <p className="text-gray-500 dark:text-gray-400 mb-10 text-base">
-        Say hi — I don't bite 👋
-      </p>
 
       <div className="flex flex-wrap gap-4">
         {contacts.map((contact) => (
