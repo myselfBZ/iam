@@ -33,7 +33,7 @@ const contacts = [
   {
     id: 'telegram',
     label: 'Telegram',
-    href: 'https://t.me/alivobjonov',
+    href: 'https://t.me/myselfbz',
     Icon: TelegramIcon,
     bg: 'bg-sky-400',
     iconColor: 'text-white',
